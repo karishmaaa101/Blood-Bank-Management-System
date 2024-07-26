@@ -17,5 +17,7 @@ Blood Bank Management System is a web application built using the MERN (MongoDB,
 * JWT Authentication: JSON Web Tokens for secure user authentication.
 * Axios: Promise-based HTTP client for making API requests.
 
+  # How to Run 
+
 # License
 This project is licensed under the MIT License.
